@@ -13,3 +13,12 @@ console.log(multiplication);
 console.log(division);
 console.log(modulus);
 console.log(exponentiation);
+
+// Below are the outputs
+
+// 50
+// 10
+// 600
+// 1.5
+// 10
+// 400
